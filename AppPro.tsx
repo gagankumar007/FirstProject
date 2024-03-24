@@ -2,12 +2,10 @@ import React from "react";
 import{View,Text,SafeAreaView,Button} from "react-native"
 
 
-function App(){
+function AppPro(){
   return(
   <SafeAreaView>
     <View>
-      <Text>hello react</Text>
-      <Text>hello react</Text>
       <Text>hello react</Text>
     </View>
     <Button title="gagan">
@@ -15,4 +13,4 @@ function App(){
   </SafeAreaView>
   )
 }
-export default App;
+export default AppPro;
