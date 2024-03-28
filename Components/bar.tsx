@@ -2,7 +2,7 @@ import React from "react";
 import{View,Text,SafeAreaView,Button} from "react-native"
 
 
-function AppPro(){
+export function Bar(){
   return(
   <SafeAreaView>
     <View>
@@ -13,4 +13,3 @@ function AppPro(){
   </SafeAreaView>
   )
 }
-export default AppPro;
